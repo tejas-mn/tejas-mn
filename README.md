@@ -47,3 +47,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tejas-mn&show_icons=true&locale=en" alt="tejas-mn" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejas-mn&" alt="tejas-mn" /></p>
+
+<h3 align="left">My Leetcode Stats:</h3>
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/tejasmn)
