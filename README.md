@@ -42,6 +42,12 @@
     <a href="https://docker.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
 </p>
 
+<hr>
+
+[![Akash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tejas-mn&theme=github-compact)](https://github.com/tejas-mn)
+
+<hr>
+
 <p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=tejas-mn&show_icons=true&locale=en&layout=compact" alt="tejas-mn"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tejas-mn&show_icons=true&locale=en" alt="tejas-mn" /></p>
