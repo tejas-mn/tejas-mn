@@ -11,7 +11,7 @@
 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rohan-a-v&label=Profile%20views&color=0e75b6&style=flat" alt="rohan-a-v" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tejas-mn&label=Profile%20views&color=0e75b6&style=flat" alt="tejas-mn" /> </p>
 
 </h1>
 </div>
