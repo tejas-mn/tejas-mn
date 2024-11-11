@@ -26,7 +26,7 @@
 - 💬 Ask me about **HTML, CSS, Javascript, React** -->
 
 
-- :computer: Interested in Backend, Devops, Cloud and Networking.
+- :computer: Interested in FullStack, Devops, Cloud and Networking.
 
 
 <h3 align="left">Languages and Tools:</h3>
