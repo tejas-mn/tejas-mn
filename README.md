@@ -49,8 +49,6 @@
 
 <hr>
 
-[![Akash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tejas-mn&theme=github-compact)](https://github.com/tejas-mn)
-
 <hr>
 
 <p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=tejas-mn&show_icons=true&locale=en&layout=compact" alt="tejas-mn"/></p>
